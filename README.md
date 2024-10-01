@@ -18,9 +18,9 @@ I'm constantly learning and experimenting with new technologies. I enjoy collabo
 
 Feel free to check out my work and connect! You can reach me at:
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [LinkedIn](https://www.linkedin.com/in/akshada-wavhal-003330233/)
 - [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your.email@domain.com)
+- [Email](akshadawavhal10@gmail.com)
 
 Let’s build something amazing together! 🚀
 
