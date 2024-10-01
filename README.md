@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Akshada wavhal]! 👋
 
 <!-- Badges -->
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
