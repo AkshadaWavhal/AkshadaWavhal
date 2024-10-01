@@ -1,39 +1,46 @@
-# Hi there, I'm [Akshada wavhal]! 👋
+# Welcome to My Code World! 🌍
 
-<!-- Badges -->
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?label=Stars)
+<!-- Greeting with Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+%5BYour+Name%5D;A+Full+Stack+Developer;Open+Source+Enthusiast!" alt="Typing SVG" />
 
-## 🚀 About Me
+<!-- Profile views badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge" alt="Profile views">
+</p>
 
-I am a passionate **Full Stack Developer** with experience in **JavaScript, Python, and Cloud Computing**. I love building efficient, scalable applications that make an impact.
+## 🛠️ Tech Playground
 
-- 🔭 I’m currently working on: [Your Project Name](https://github.com/yourusername/yourproject)
-- 🌱 I’m currently learning: **AWS Cloud and Machine Learning**
-- 👯 I’m looking to collaborate on: **Open-source projects related to web development**
-- 💬 Ask me about: **React, Node.js, Python, AWS**
+I'm passionate about creating meaningful applications and experimenting with new technologies. Here's a glimpse of what I love working on:
 
-## 📊 GitHub Stats
+- **Frontend**: React, Vue.js, TailwindCSS, Next.js
+- **Backend**: Node.js, Express, GraphQL, Django
+- **DevOps**: Docker, Kubernetes, AWS, CI/CD Pipelines
+- **Database**: MongoDB, PostgreSQL, MySQL
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### 🧩 Featured Projects
+[![Your Project Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject&theme=vue-dark)](https://github.com/yourusername/yourproject)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername/github-readme-stats)
+## 📈 GitHub Stats
 
-## 🛠 Tech Stack
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" />
+</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+## 🎮 Interactive Fun Zone
 
-## 📫 Get in Touch
+**Try out some mini-projects right here on my GitHub:**
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Portfolio](https://your-portfolio-site.com)
+- 🎲 [Live Coding Game](https://github.com/yourusername/live-coding-game)
+- 🧠 [AI Trivia Bot](https://github.com/yourusername/ai-trivia-bot)
 
-## 😄 Fun Fact
-I can solve a Rubik's cube in under 2 minutes!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=
+
