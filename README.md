@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Akshada Wavhal!
 
 Hi there! I'm a passionate **Software Developer** with a focus on building innovative and scalable solutions using **Python, JavaScript**, and **cloud technologies**. I love exploring **Machine Learning**, **AI**, and **Object-Oriented Programming** to solve real-world problems.
 
